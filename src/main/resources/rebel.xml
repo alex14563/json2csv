@@ -9,8 +9,7 @@
 	<id>json2csv</id>
 
 	<classpath>
-		<dir name="E:/BOSSSOFT/json2csv/target/classes">
-		</dir>
+		<dir name="E:/PERSONAL/json2csv/target/classes" />
 	</classpath>
 
 </application>
